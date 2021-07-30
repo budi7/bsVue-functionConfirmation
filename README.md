@@ -1,6 +1,7 @@
 # bsVue-functionConfirmation
 handy function to trigger bsVue modal confirmation, support for multi language, and customizable result event to (all of your component, or local component) 
 
+note: using bs vue (https://bootstrap-vue.org/), tested on 2.21.x 
 
 ## Installation
 
